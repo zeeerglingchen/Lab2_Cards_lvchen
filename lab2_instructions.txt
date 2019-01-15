@@ -1,0 +1,36 @@
+SI 507 - Lab 2
+----
+
+Follow the following instructions to complete the lab, about practicing using Git and GitHub.
+
+- Complete all readings for Lecture 2, and complete all setup:
+-- Set up Git on your computer
+-- Get a GitHub account of your own and complete the SSH key setup
+-- Fill out the form in the readings with your name, uniqname, and GitHub username
+
+- Download lab2_code.py from Canvas and save it in its own directory on your computer.
+
+- Create a Git repo in your directory that contains lab2_code.py.
+
+- Add lab2_code.py to the Git repo, and commit it to the repo, with a short commit message.
+
+- Create a new file README.md in the directory. Add and commit it to the Git repo.
+
+- Make a change to the lab2_code.py file, and make sure that your change does NOT keep the file from running. For example, you could add another comment, or try adding to the code.
+
+- Add and commit your lab2_code.py change to the Git repository with a message briefly describing what you added/changed in the code.
+
+- Edit the README.md file so that it describes what code in the lab2_code.py does in a clear and organized way. Use Markdown formatting (https://www.markdownguide.org/basic-syntax/ or use any other resource you want) to format the file. You should make at least 2 commits during this process.
+
+- Create a repository on your GitHub account for this code. You should name the GitHub repository Lab2_Cards_YOURUNIQNAME. So for example, Lab2_Cards_jczetta, or Lab2_Cards_ruchido, etc.
+
+NOTE: You should make it private, and you should add the following GitHub usernames as collaborators on the repository: svschou, catieo, bdpaul99
+(If you don't know how to do this on first reading, worry not -- there is information online, in class, and will be information about how to do this in a Page on Canvas as well.)
+
+- Add the GitHub repository as a remote origin of your Git repo on your computer.
+
+- Push all of your commits to the GitHub repository. (You can of course complete the GitHub step/s at any point, and continue pushing it repeatedly -- this does not have to happen only once.)
+
+- Submit to this lab assignment a LINK to your GitHub repository so that instructors can look at it to grade. Be careful that it is the right link -- Your link should be of this format: https://github.com/YOUR-GITHUB-USERNAME/Lab2_Cards_YOURUNIQNAME
+
+A good way to check is to go to the link and see if you see your rendered (displayed) README!
