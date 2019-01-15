@@ -9,3 +9,5 @@ The first class Card can generate cards of all suits and ranks, every instance o
 The second class Deck creates a whole set of cards which is composed by 52 cards with ranks from 1 to 13 and suits from Diamonds to Spades. This class also has a bunch of tools to manipulate the whole set such as take off one card from the pile, shuffle the cards and add a new card.
 
 The function play_war_game is the process of the game. It creates two players and two decks at the beginning and lets them get one card each time and compete the value of those cards. It accumlates the socre of each comparasion and gets a winner at the end of this game
+
+After the first push to Github, I decide to make another change and commit and push again
